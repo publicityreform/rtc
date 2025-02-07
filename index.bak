@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Real Time Communication</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <div id="nav" onclick="menu()">+</div>
+    
+      
+
+    <div id="info" class="hidden">
+      <strong>What is this?</strong>
+      <br /><br />
+      This is a minimal archive of artworks that explore <em>telepresence</em> as subject
+      matter. Most entries in this archive are better documented and discussed
+      elsewhere (see <strong>Resources</strong> (below) and 🔗links🔗 for specific works); however, an effort has
+      been made here to trace the subject matter across parallel art historical
+      lineages, in order to map out critical themes and key lines of inquiry
+      surrounding the emergent subject of telepresence. The purpose of this site
+      is not to emulate or re-create these artworks, nor to provide context and
+      analysis. Instead, assembling a partial, in-progress and post-custodial<sup>1</sup> archive here—building on the archival work of other institutions and
+      artists—this site retains a flexible position of open inquiry in relation
+      to the works included. <br /><br />
+      As a working definition: <em>Telepresence</em> describes the sensory effects associated with the belief that one is experiencing mediated, real-time communication between remote participants and/or locations. Correspondingly, telepresence may include the sensation of believing that one is performing—and witnessing the effects of—actions in a remote physical reality.<sup>2</sup> Degrees of interactivity, agency, sociality and immersiveness contribute to a (shared) sense of telepresence.<sup>3</sup>
+<br><br>
+      <strong>Research objectives (initial questions):</strong>
+
+      <ul>
+        <li>What would a phenomenology of telepresence include?</li>
+
+        <li>
+          What forms does telepresence take?
+        </li>
+        <li>
+          How has technology determined our experiences—of, by, and through
+          telepresence?
+        </li>
+      </ul>
+      
+      In consideration of these questions, and in hopes of bringing other questions to the surface, this archive looks to artworks that investigate problems of embodiment, representation and access—including such themes as sharing a virtual body as, or in relation to, individuals and collectives (co-embodiment); transitioning between bodies / non-bodies; inhabiting assemblages or partial bodies; co/creation of “place” outside of space or time; the limits and possibilities of asymmetric technology; invention and/or erasures of identity; senses of self-efficacy, and the human need for social presence. The artworks gathered here do the work of bringing other phenomenological modes into the fold—cyborg, cyber-, and glitch feminisms, crip and queer theories, as well as theories of disability, dislocation, and diaspora.
+<br><br>
+In the popular imaginary, telepresence carries themes of recursive realities; agential selves moving between bodies or becoming ephemeral; co-embodiment; the recording and transfer of sense-memories; perception, sensation, and memory that exceed the capacity of a grounded subject; and the assemblage and subsequent breakdown of what Ken Goldberg has called “telepistemology”<sup>4</sup>—knowing at a distance, as mediated by technology and networks. 
+<br><br>
+Spending time with these artworks is to consider how we have arrived here → sharp ontological differences; perceptual and cognitive distortions of time, space, and fact; stateless data bodies, border walls, surveillance, drone warfare… and the fugitive practices which point towards the promise of remote intimacy, universal access, and coordinated participation in virtual community. 
+
+      
+      
+      <div id="resources">
+        <div class="link"></div>
+        <strong>Resources:</strong> <br /><br /><a
+          href="https://v2.nl/archive"
+          target="_blank"
+          >V2_
+        </a>
+        <a href="http://telematic.walkerart.org/" target="_blank"
+          >Walker Art Center Telematic Connections Online Archive</a
+        >
+        <a href="https://anthology.rhizome.org/">Rhizome Net Art Anthology</a>
+        <a href="http://medienkunstnetz.de/" target="_blank"
+          >Medien Kunst Netz / Media Art Net</a
+        > <a href="https://whitney.org/artport" target="_blank">Whitney Artport</a> 
+        <a href="https://monoskop.org/" target="_blank">Monoskop</a>
+        <a href="https://nettime.org/archives.php" target="_blank">Nettime</a>
+        <a href="http://turbulence.org/" target="_blank">Turbulence</a> &
+        Individual artists’ websites 🙏
+      </div>
+      <div id="bibliography">
+        <sup>1</sup> <a href="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FBecerra-Licha_2017_Participatory%20and%20Post-Custodial%20Archives%20as%20Community%20Practice.pdf?v=1607006377513" target="_blank">Becerra-Licha, Sofía. “Participatory and Post-Custodial Archives as Community Practice.” Educause, 2017, pp. 90–91.</a><br>
+        <sup>2</sup> <a href="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FKen%20Goldberg_1998_Virtual%20reality%20in%20the%20Age%20of%20Telepresence.pdf?v=1607006381828" target="_blank">Goldberg, Ken. “Virtual Reality in the Age of Telepresence.” Convergence, vol. 4, no. 1, 1998, pp. 33–36.</a><br>
+        <sup>3</sup> <a href="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FLombard%2C%20Ditton_1997_At%20the%20heart%20of%20it%20all%20The%20concept%20of%20presence.pdf?v=1607006377079" target="_blank">Lombard; Ditton (1997). "At the heart of it all: the concept of presence". Journal of Computer-Mediated Communication. 2. 3 (2): 0. doi:10.1111/j.1083-6101.1997.tb00072.x.</a><br>
+        <sup>4</sup> <a href="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGoldberg_2000_The%20Robot%20in%20the%20Garden%20Telerobotics%20and%20Telepistemology%20in%20the%20Age%20of%20the%20Internet.pdf?v=1607006372804" target="_blank">“The Robot in the Garden: Telerobotics and Telepistemology in the Age of the Internet.” edited by Ken Goldberg, The MIT Press, 2000.</a>
+      </div>
+    </div>
+    <div id="main" onclick="hide()">
+      <h1>
+        Real-Time Communication
+      </h1>
+
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Public Supply I</em></div>
+          <div class="year">1966</div>
+          <div class="artist">Max Neuhaus</div>
+          <div class="description">
+            For Public Supply I Max Neuhaus confined his role as musician to
+            that of a “catalyst for sound-producing activities,” using the
+            largest existing network, the telephone network, which had about 500
+            million subscribers at the time. Using technology he had constructed
+            himself, he was able to mix calls coming in to ten telephones in the
+            studios of the WBAI radio station in New York in different ways, and
+            then broadcast this melange of listeners' sounds and noises. Once
+            the listeners who called in had switched their radios on, he played
+            with the feedback this produced and bundled sounds from introverted
+            and extroverted callers together. “I realized I could open a large
+            door into the radio studio with the telephone; if I installed
+            telephone lines in the studio, anybody could sonically walk in from
+            any telephone. At that time there were no live call-in shows. […]
+            Although I was not able to articulate it in 1966, now, after having
+            worked with this idea for a long time and talked about it and
+            thought about it, it seems that what these works are really about is
+            proposing to reinstate a kind of music which we have forgotten about
+            and which is perhaps the original impulse for music in man: not
+            making a musical product to be listened to, but forming a dialogue,
+            a dialogue without language, a sound dialogue.”
+            <span class="attr"
+              >Source: Max Neuhaus, “Rundfunkarbeiten und Audium,” in: Transit
+              (publ.), Zeitgleich, Vienna 1994, pp. 21–23</span
+            >
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <audio controls>
+              <source
+                src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Faudio_19_QTLAN.mp4?v=1606229867129"
+              />
+            </audio>
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <audio controls>
+              <source
+                src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Faudio_22_QTLAN.mp4?v=1606229872388"
+              />
+            </audio>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>City-links</em></div>
+          <div class="year">1967-1981</div>
+          <div class="artist">Maryanne Amacher</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="https://www.cambridge.org/core/journals/twentieth-century-music/article/telematic-tape-notes-on-maryanne-amachers-citylinks-19671980/3CACB2D0075DE5210F48B7BEFECB2B1E"
+              target="_blank"
+            ></a
+            ><a
+              href="http://ludlow38.org/exhibitions/maryanne-amacher-city-links/"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F2ugnrh0z5p_Iz47Rof8dOeYBllq6i4ZnhBS-1843x1443.jpeg?v=1606233235512"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Children and communication</em></div>
+          <div class="year">1969-1971</div>
+          <div class="artist">Experiments in Art and Technology</div>
+          <div class="description">
+            This activity, which was part of the Project Outside Art program,
+            was designed to introduce schoolchildren to new communication
+            technologies. The artist Robert Whitman developed a series of
+            stations equipped with teleprinters and telephones, which the
+            children could use at leisure. These stations were set up in the
+            north and south ends of New York, thereby linking two areas of the
+            city and their respective communities.
+          </div>
+          <div class="link">
+            <a
+              href="https://www.ubu.com/papers/whitman_funcke.html"
+              target="_blank"
+            ></a
+            ><a
+              href="https://www.fondation-langlois.org/html/e/page.php?NumPage=408"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fbild%20(2).jpg?v=1606233232829"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fbild%20(1).jpg?v=1606233232658"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fbild.jpg?v=1606233233873"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Hello</em></div>
+          <div class="year">1969</div>
+          <div class="artist">Allan Kaprow</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="https://ecologiesofintimacy.wordpress.com/2016/03/30/hello-1969/"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-09-10%20at%2012.08.16%20PM.png?v=1606229869821"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <video controls>
+              <source
+                src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fhello.mp4?v=1606229891432"
+              />
+            </video>
+
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Against Shadows</em></div>
+          <div class="year">1969</div>
+          <div class="artist">Juan Downey</div>
+          <div class="description">
+            Viewers’ shadows determine patterns lit up on a bank of light bulbs.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fjuan%20downey%20-%20against%20shadows%201969.jpeg?v=1606229858311"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fjuan%20downey%20-%20against%20shadows%20-%201969%2002.png?v=1606229865336"
+            />
+            <figcaption>
+              image taken from
+              <a
+                href="https://cdn.glitch.com/9cf10ceb-7f41-4a7d-b3e1-cd679fa92a17%2FDowney_Juan_El_ojo_pensante_The_Thinking_Eye.pdf?v=1605999379616"
+                >"Juan Downey: El Ojo Pensante"</a
+              >
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title">
+            <em>Invisible Energy in Chile Dictates a Concert in New York</em>
+          </div>
+          <div class="year">1969</div>
+          <div class="artist">Juan Downey</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fjuan%20downey%20-%20invisible%20energy%20in%20chile.png?v=1606229860855"
+            />
+            <figcaption>
+              image taken from
+              <a
+                href="https://cdn.glitch.com/9cf10ceb-7f41-4a7d-b3e1-cd679fa92a17%2FDowney_Juan_El_ojo_pensante_The_Thinking_Eye.pdf?v=1605999379616"
+                >"Juan Downey: El Ojo Pensante"</a
+              >
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Satellite Arts Project</em></div>
+          <div class="year">1977</div>
+          <div class="artist">Kit Galloway & Sherrie Rabinowitz</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="http://www.ecafe.com/museum/3_exp_76/3experiments.html"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Funnamed.jpg?v=1606229861444"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F3-Dtransport3.jpg?v=1606229855357"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F3-Exp_E-W2.jpg?v=1606229856722"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F3-Exp_LT1.jpg?v=1606229867021"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Radio Net</em></div>
+          <div class="year">1977</div>
+          <div class="artist">Max Neuhaus</div>
+          <div class="description">
+            Radio Net went further than the idea behind Public Supply I. Here
+            again Neuhaus used only the sound from incoming telephone calls as
+            his material, but controlled it with completely automatic mixing
+            desks. He also activated radio technology, in the form of the
+            national loop used by the American NPR Broadcasting Corporation, to
+            process this material aesthetically. Instead of merely transmitting
+            signals from one station to the next, Neuhaus converted the whole
+            system into a closed loop, so that sounds could circulate throughout
+            it. “It created a sound-transformation ‹box› that was literally
+            fifteen hundred miles wide by three thousand miles long with five
+            ins and five outs emerging in Washington. […] even if you do have a
+            frequency shifter and gain control, each loop was in a sense a
+            living thing—they could get out of hand very quickly. […] My role
+            was holding the balance of this big five-looped animal with as
+            little movement as possible.”<span class="attr">Source: Max Neuhaus, “Rundfunkarbeiten und Audium,” in: Transit
+              (publ.), Zeitgleich, Vienna 1994, pp. 25–26</span>
+          </div>
+          <div class="link">
+            <a
+              href="http://www.medienkunstnetz.de/works/radio-net/"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fbild%20copy.jpg?v=1606229868541"
+            />
+            <figcaption>
+              
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Two-Way-Demo: Send/Receive</em></div>
+          <div class="year">1977</div>
+          <div class="artist">Liza Bear, Keith Sonnier, Willoughby Sharp</div>
+          <div class="description">
+            On September 10 and 11, 1977, the first two-way live broadcast
+            between New York and San Francisco take place. Put into position in
+            1976, the NASA Satellite CTS is used for the occasion. The New
+            York-based station, MCTV, receives a cable signal by satellite.
+            Throughout the two-and-a-half hour-long broadcast, the two-way
+            telecommunication is the central theme: texts are read, video
+            material recorded and discussed. The broadcast reaches almost 25,000
+            spectators.
+            <span class="attr"
+              >Source: Ann-Kathrin Schlote, Pioniere der
+              Telekommunikationskunst, unpublished Master of Arts dissertation,
+              University of Heidelberg, 1998, p. 77.</span
+            >
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>The Last Nine Minutes</em></div>
+          <div class="year">1977</div>
+          <div class="artist">Douglas Davis</div>
+          <div class="description">
+            Live performance for international satellite telecast, documenta VI
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fdoug.jpg?v=1606714834317"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Aspen Movie Map</em></div>
+          <div class="year">1978</div>
+          <div class="artist">Architecture Machine Group (MIT)</div>
+          <div class="description">Alternate routes to real-time.</div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <div class="iframecontainer">
+              
+            <iframe
+              src="https://player.vimeo.com/video/103392?title=0&byline=0&portrait=0"
+              width="640"
+              height="480"
+              frameborder="0"
+              allow="autoplay; fullscreen"
+              allowfullscreen
+            ></iframe>
+            </div>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Lorna</em></div>
+          <div class="year">1979-1984</div>
+          <div class="artist">Lynn Hershman Leeson</div>
+          <div class="description">
+            In 1973 Hershman created Lorna, the first ever artist's interactive
+            videodisc. Presented in a living room setting, the viewer could
+            interact with Lorna by clicking the remote control to trigger
+            different sequences about her life. Lorna was, in some senses, a
+            virtual counterpart to Hershman's earlier alter ego, Roberta
+            Breitmore, for whom she created a quotidian existence, complete with
+            bank accounts and diet regimens.
+          </div>
+          <div class="link">
+            <a
+              href="http://www.lynnhershman.com/investigations/voyeurism/lorna/lorna.html"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FLorna.jpg?v=1606229869276"
+            />
+            <figcaption>
+              Lorna, 1984, interactive videodisk installation, infinite
+              duration, video stills
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Hole-in-space</em></div>
+          <div class="year">1980</div>
+          <div class="artist">Kit Galloway & Sherrie Rabinowitz</div>
+          <div class="description">
+            Live two-way satellite connection using video screens to project
+            life-size images. Without public announcement, we installed "Hole in
+            Space" in a sidewalk facing window at New York City's Lincoln Center
+            and in a display window at at the Broadway department store in
+            Century City ( Los Angeles). Both screens could accommodate the
+            images of about 15 people. People could converse with people in the
+            other city as if they were standing on the same street corner. "Hole
+            in Space" took place over three evenings. On the first night, people
+            simply discovered it. They used pay-phones of phoned from home to
+            tell friends in the other city to meet them. They all showed up for
+            the second evening, when it also was announced on TV in both
+            locations. On the third night, families from miles away drove into
+            the cities with cars full of kids to meet up with relatives on the
+            other coast whom they hadn't seen in years.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fhole_in_space21349139095197.jpg?v=1606233234872"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fhis_windows.jpg?v=1606229861514"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>The World in 24 Hours</em></div>
+          <div class="year">1982</div>
+          <div class="artist">Robert Adrian X</div>
+          <div class="description">
+            a networked happening that linked sixteen cities worldwide, with the
+            media art festival Ars Electronica in Linz, Austria acting as the
+            central node. Each site was given one hour—coinciding with midday,
+            local time—in which to generate and transmit content over a wide
+            range of devices and networks, including computer terminals, phone,
+            fax, and slow-scan TV. The project reflected Adrian’s early insight
+            that the network is not an artistic medium in the traditional sense.
+            Rather, networked art would be defined by exchange—“taking place in
+            the space between machines, only when the machines were on.”
+          </div>
+          <div class="link">
+            <a
+              href="https://anthology.rhizome.org/the-world-in-24-hours"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fimage%20(2).png?v=1606233231644"
+            />
+            <figcaption>
+              Fax sent by Bill Bartlett and Hank Bull to Vienna as part of The
+              World in 24 Hours.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FBosma%20D%20bfb26b513b7a640448c79c3bdd6d2bb0.jpg?v=1606233236223"
+            />
+            <figcaption>
+              The World in 24 Hours at Ars Electronica Festival, 1982.
+              Photograph by Sepp Schaffler.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F1.01a%20262f3d665f3ebe0bb7af2a1044ea9d23.jpg?v=1606233244424"
+            />
+            <figcaption>
+              The World in 24 Hours at Ars Electronica Festival, 1982.
+              Photograph by Sepp Schaffler.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>La Plissure du Texte</em></div>
+          <div class="year">1983</div>
+          <div class="artist">Roy Ascott</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="http://telematic.walkerart.org/timeline/timeline_ascott.html"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fshanken_fig_4.jpg?v=1606233230581"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-24%20at%201.05.08%20PM.png?v=1606241211749"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Deep Contact</em></div>
+          <div class="year">1984</div>
+          <div class="artist">Lynn Hershman Leeson</div>
+          <div class="description">
+            In this interactive videodisk installation, users are invited to use
+            a Microtouch monitor to directly touch the body parts of a female
+            character named Marion. A surveillance camera registers the
+            visitor’s presence, triggering Marion to entice him or her to begin
+            the action. Depending on what body part is touched, a complex web of
+            episodes unfolds.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FDeep-Contact.jpg?v=1606229861939"
+            />
+            <figcaption>
+              Deep Contact, 1984, interactive videodisk installation, duration
+              infinite, video stills
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Poietic Generator</em></div>
+          <div class="year">1987-present</div>
+          <div class="artist">Olivier Auber</div>
+          <div class="description">
+            Every player draws on a small part of a global mosaic, which is
+            manipulated by all the participants. Every player can therefore
+            change the sign in his/her square, depending on the overall state of
+            the image, which itself depends on the actions of all the individual
+            players. Out of this cybernetic loop emerges a kind of narrative:
+            autonomous forms, sometimes abstract, sometimes figurative, appear
+            in a completely unpredictable manner and tell stories. The Poietic
+            Generator runs on two types of architecture, a centralized network
+            (for versions 1, 3, 4), or an ad hoc distributed network capable of
+            implementing the multicast protocol (case version 2). Therefore, no
+            location in the network plays a particular role and according to the
+            rules of the Poietic Generator, an "all-all" interaction may take
+            place without the intervention of any kind of control center.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGe%CC%81ne%CC%81rateur_Poi%CC%88e%CC%81tique%2C_interface_de_la_version_Multicast_(1994).gif?v=1606229867114"
+            />
+            <figcaption>
+              Interface, Multicast version (1994) By OlivierAuber
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGe%CC%81ne%CC%81rateur_Poi%CC%88e%CC%81tique._Enregistrment_d'une_expe%CC%81rience_sur_le_web%2C_festival_X-00_(2000).gif?v=1606229862210"
+            />
+            <figcaption>
+              Recording of a web experiment, X-00 festival (2000) By
+              OlivierAuber
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGe%CC%81ne%CC%81rateur_Poi%CC%88e%CC%81tique%2C_enregistrement_(1995).gif?v=1606229861807"
+            />
+            <figcaption>
+              Recording the first real-time group interaction without any center
+              (1996) By OlivierAuber
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGe%CC%81ne%CC%81rateur_Poi%CC%88e%CC%81tique%2C_Elmediator_2005-03-23.gif?v=1606229878478"
+            />
+            <figcaption>
+              Recording of an experiment with the "Elmediator" digital public
+              space (2005-03-23) By OlivierAuber
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Electronic Cafe International</em></div>
+          <div class="year">1987-2013</div>
+          <div class="artist">Kit Galloway & Sherrie Rabinowitz</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="http://www.ecafe.com/museum/cyberart92/Welcome_to_ECI.html"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FGlahnLevine2-1.jpg?v=1606233237957"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>21st Century Odyssey</em></div>
+          <div class="year">1991-1993</div>
+          <div class="artist">Barbara T. Smith</div>
+          <div class="description">
+            On September 26, 1991, a group of eight scientists sealed themselves
+            inside a research facility outside of Tucson, Arizona to begin a
+            two-year experiment. Dubbed “Biosphere 2” — Biosphere 1 being the
+            Earth itself — the closed structure contained several different
+            ecosystems, including a desert, rainforest, and coral reef, in which
+            the researchers could investigate the possibility of maintaining
+            human life in outer space. One of those locked inside was Dr. Roy
+            Walford, whose partner at the time was Los Angeles-based artist
+            Barbara T. Smith. While Walford was physically isolated from the
+            world, Smith decided to explore it, embarking on a two-year creative
+            journey that would take her around the globe, from India and Nepal
+            to Germany and Norway, Hawaii and Seattle. She imagined herself a
+            modern-day female version of Homer’s legendary traveller Odysseus,
+            and considered every element of her trip as part of a durational
+            performance, “The 21st Century Odyssey.” Along her route, she would
+            use a videophone and nascent internet technology to connect with
+            Walford in the facility, as well as with collaborators Kit Galloway
+            and Sherrie Rabinowitz of the Electronic Café International, an
+            early cyber cafe located at 18th Street Arts Center in Santa Monica,
+            which archived these communications.
+          </div>
+          <div class="link">
+            <a
+              href="https://www.librarystack.org/barbara-t-smith-21st-century-odyssey/"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F21stcenturyodyssey02-520x381.png?v=1606229862709"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F21stcenturyodyssey-520x379.png?v=1606229866734"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <div class="iframecontainer">
+              
+            <iframe
+              src="https://player.vimeo.com/video/101764956?title=0&byline=0&portrait=0"
+              width="640"
+              height="480"
+              frameborder="0"
+              allow="autoplay; fullscreen"
+              allowfullscreen
+            ></iframe>
+            </div>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>The Thing</em></div>
+          <div class="year">1991-ongoing</div>
+          <div class="artist">Wolfgang Staehle</div>
+          <div class="description">
+            Founded in New York City in 1991, The Thing originated as a Bulletin
+            Board System (BBS)—an early type of online forum—focusing on
+            contemporary art and cultural theory. As a BBS, and later an email
+            provider and ISP, The Thing fostered a community of practitioners
+            who engaged in experiments with political organizing, writing,
+            performance, and the sale and distribution of artwork online.
+            Including features such as messaging, an anonymized chatroom, and
+            the ability to upload and download files, The Thing BBS initially
+            reached a primarily New York-based community, within reach of local
+            calling rates, but soon grew to include additional nodes in Europe.
+            The project can be considered a platform for contributions by
+            artists and non-artists alike as well as a kind of collectively
+            created social sculpture.
+          </div>
+          <div class="link">
+            <a
+              href="https://anthology.rhizome.org/the-thing"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F1.05e%20-%20The%20Thing_23ttcrew93.jpg?v=1606233237111"
+            />
+            <figcaption>
+              Wolfgang Staehle and other participants in The Thing circa 1993.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Room of One’s Own</em></div>
+          <div class="year">1993</div>
+          <div class="artist">Lynn Hershman Leeson</div>
+          <div class="description">
+            The spectator can peer into a miniature bedroom. A moveable
+            periscopic viewer tracks the movements of the voyeur’s eyes,
+            triggering videos of the female occupant to be projected onto the
+            bedroom wall. As the viewer focuses on the different objects
+            contained in the space, particular scenes from the videodisk are
+            shown, accompanied by recorded questions, demands, or protests from
+            the character. Close-up surveillance footage of the viewer’s moving
+            eye, in turn, is captured in real-time and appears on a small
+            television monitor inside the room, reversing his or her gaze.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FRoom-of-Ones-Own.jpg?v=1606229869082"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Danube Connection</em></div>
+          <div class="year">1993</div>
+          <div class="artist">Robert Adrian X</div>
+          <div class="description"></div>
+          <div class="link">
+            <a
+              href="https://monoskop.org/Robert_Adrian_X#Danube_Connection"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <video controls>
+              <source
+                src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FRobert_Adrian_X_Artpool_1993_Danube_Connection_Vienna-Budapest.webm?v=1606241473274"
+              />
+            </video>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Essay Concerning Human Understanding</em></div>
+          <div class="year">1994</div>
+          <div class="artist">Eduardo Kac / Ikuo Nakamura</div>
+          <div class="description">
+            A canary dialogues over a regular phone line with a plant
+            (Philodendron) 600 miles away. When this work was shown publicly,
+            the bird and the plant interacted for several hours daily. Humans
+            interacted with the bird and the plant as well. Just by standing
+            next to the plant and the bird, humans immediately altered their
+            behavior. When in close proximity, the interaction was further
+            enhanced by the constantly changing behavior of the bird and the
+            plant, which responded by singing more (bird), activating more
+            sounds (plant), or by remaining quiet. By enabling an isolated and
+            caged animal to have a telematic conversation with a member of
+            another species, this installation dramatized the role of
+            communication and telecommunications in human lives. The
+            inter-species communicative experience observed in the gallery
+            reflects our own longing for interaction, our desire to reach out
+            and stay in touch. This interactive installation is as much about
+            creating art for non-humans as it is about human isolation and
+            loneliness, and about the very possibility of communication. As this
+            piece projects the complexities of electronically mediated human
+            communication over non-human organisms, it surprisingly reveals
+            aspects of our own communicative experience. This interaction is as
+            dynamic and unpredictable as a human dialogue.
+          </div>
+          <div class="link">
+            <a href="http://www.ekac.org/essay.html" target="_blank"></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fdiagram%20_%20essay_2010.jpg?v=1606229867229"
+            />
+            <figcaption>
+              "Essay Concerning Human Understanding", YLEM, Vol. 15, No.4,
+              August, p. 4; also published on the Internet in Leonardo
+              Electronic Almanac, Volume 3, No. 8, August 1995, MIT Press.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Teleporting an Unknown State</em></div>
+          <div class="year">1994-1996</div>
+          <div class="artist">Eduardo Kac</div>
+          <div class="description">
+            Physically, "Teleporting an Unknown State" is a relatively simple
+            feedback loop. A seed is planted in a bed of dirt in a dark room.
+            Above it is a data projector. On the Web is a grid of nine squares.
+            In the center is an image from a webcam, also placed above the
+            seed/dirt. When clicked, the other eight black squares display
+            selected webcam images from around the world/Internet--both on the
+            website and on the bed of dirt, via the data projector. By clicking
+            on the grid, the viewer-participant is providing the light for
+            photosynthesis necessary for the seed to grow in the dark room.
+            Conceptually, this simple interaction is a profound statement about
+            the Internet as more than the transmission of representations. It is
+            a life-supporting system. At least metaphorically, it teleports
+            photons (particles not matter), which sustain a living thing. In
+            order to do this, "Teleporting an Unknown State" also promotes a
+            social network of participants, who must log on often enough,
+            collectively, to provide the level of projected light necessary for
+            the seedling (a biological not artificial life form) to grow.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F1996_Kac_TeleportinganUnknownState.jpg?v=1606233239229"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Telegarden</em></div>
+          <div class="year">1995-2004</div>
+          <div class="artist">Ken Goldberg</div>
+          <div class="description">
+            A telerobotic community garden for the Internet, which allowed web
+            users to view and interact with a remote garden filled with living
+            plants. Members can plant, water, and monitor the progress of
+            seedlings via the tender movements of an industrial robot arm.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FTelegarden.jpg?v=1606229857417"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Cyberflesh Girlmonster</em></div>
+          <div class="year">1995</div>
+          <div class="artist">Linda Dement</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fthe-other-art-history-the-forgotten-cyberfeminists-of-90s-net-art-ORIG.jpg?v=1606229867501"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>CybeRoberta</em></div>
+          <div class="year">1995</div>
+          <div class="artist">Lynn Hershman Leeson</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Tillie, The Telerobotic Doll</em></div>
+          <div class="year">1995-1998</div>
+          <div class="artist">Lynn Hershman Leeson</div>
+          <div class="description"></div>
+          <div class="link">
+            <a href="https://www.lynnhershman.com/tillie/" target="_blank"></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-21%20at%2012.21.24%20PM.png?v=1606231019916"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-21%20at%2012.21.50%20PM.png?v=1606231020249"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Telepresence Garment</em></div>
+          <div class="year">1995-1996</div>
+          <div class="artist">Eduardo Kac</div>
+          <div class="description">
+            Online telepresence work with wireless telerobotic clothes. Apparel
+            and apparatus merge in this networked interactive article of
+            clothing.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fhood.jpg?v=1606229868325"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Rara Avis</em></div>
+          <div class="year">1996</div>
+          <div class="artist">Eduardo Kac</div>
+          <div class="description">
+            Local and remote participants experienced a large aviary with 30
+            birds from the point of view of a telerobotic macaw. Inside the
+            aviary the viewer noticed a strong contrast between the thirty
+            flying birds (zebra finches, which were very small and mostly gray)
+            and the large tropical macaw, which was perched and immobile. This
+            macaw, like any other, has a long saber-shaped tail, a curved
+            powerful bill, and brilliant plumage. Upon observing the behavior of
+            the birds, the viewer noticed that the macaw -- the most commanding
+            bird in the aviary -- appeared motionless. Only its head moved. This
+            tropical bird was in fact a telerobot. Since the macaw's eyes were
+            on the front of the head, as is the case of an owl, the telerobot
+            was called a Macowl . The head of the telerobotic macowl is made of
+            a pair of color video cameras and a computer-controlled servo. The
+            servo-motor which moves the telerobot's head is controlled by a PC
+            receiving directional information from the virtual reality headset.
+            The viewer was invited to put on the headset. While wearing the
+            headset, the viewer was transported into the aviary. The viewer now
+            perceived the aviary from the point of view of the Macowl and was
+            able to observe himself or herself in this situation from the point
+            of view of the macaw. The tropical bird's eyes are two CCD cameras.
+            When the viewer, now a participant, moved his or her head to left
+            and right, the head of the telerobotic Macowl moved accordingly,
+            enabling the participant to see the whole space of the aviary from
+            the Macowl's point of view. The real space was immediately
+            transformed into a virtual space. The installation was permanently
+            connected to the Internet. Through the Net, remote participants
+            observed the gallery space from the point of view of the telerobotic
+            Macowl. Through the Internet remote participants also used their
+            microphones to trigger the vocal apparatus of the telerobotic macaw
+            heard in the gallery. The body of telerobotic Macowl was shared in
+            real time by local participants and Internet participants worldwide.
+            Sounds in the space, usually a combination of human and bird voices,
+            traveled back to remote participants on the Internet. By enabling
+            the local participant to be both vicariously inside and physically
+            outside the cage, this installation created a metaphor that revealed
+            how new communications technology enables the effacement of
+            boundaries at the same time that it reaffirms them. The installation
+            also addressed issues of identity and alterity, projecting the
+            viewer inside the body of a rare bird who not only was the only one
+            of its kind in the aviary but was also distinctly different from the
+            other birds (in scale, color, and behavior). The piece can be seen
+            as a critique of the problematic notion of "exoticism", a concept
+            that reveals more about relativity of contexts and the limited
+            awareness of the observer than about the cultural status of the
+            object of observation. This image of "the different", "the other",
+            embodied by the telerobotic Macowl, was dramatized by the fact that
+            the participant temporarily adopted the point of view of the rare
+            bird. This piece created a self-organizing system of mutual
+            dependence, in which local participants, animals, a telerobot, and
+            remote participants interacted without direct guidance, control, or
+            external intervention. As the piece combined physical and
+            non-physical entities, it merged immediate perceptual phenomena with
+            a heightened awareness of what affects us but is visually absent,
+            physically remote. Local and on-line participants experienced the
+            space in complex, different ways. The local ecology of the aviary
+            was affected by Internet ecology and vice-versa. The topology of
+            Rara Avis was carefully designed to expose the social gap implied in
+            technological development. As the video feed, from the point of view
+            of the Macowl (as seen by a local participant), went out from the
+            Atlanta space into the Internet, one eye was digitized in grayscale
+            (with the freeware Cu-SeeMe) while the other was digitized in color
+            (with the commercial product Enhanced Cu-SeeMe). While anyone with
+            Internet access could download the freeware and participate in the
+            interactive component of the work, full participation in color was
+            only accessible to those who had already purchased the commercial
+            version of the freeware. The gray images were subsequently and
+            automatically uploaded to the Rara Avis Web site, where they became
+            even more accessible--since more people today have access to (and
+            feel comfortable with) the Web than to videoconferencing on the
+            Internet. The color feed was re-routed to the MBone, the
+            multicasting zone of the Net, which only a much smaller group of
+            individuals can access at present. Those lacking access to more
+            powerful media saw the space in Atlanta in grayscale, at speeds that
+            depended on the software, hardware, and connectivity available to
+            them. Those with access to newer technology were able to experience
+            the space differently, in color and at frame rates that reflected
+            the processing power and bandwidth available to them. In its
+            geographic dispersal, Rara Avis was intentionally never exactly the
+            same to remote or local participants. The merger of local ecology
+            with the cybersphere was perceived in varying ways by viewers and
+            participants worldwide, depending on the kind of access they had.
+            This clearly suggested that the mediascape--the highly technological
+            environment in which we live--modulates and defines our perception
+            of reality. Which makes us realize the inequalities promoted by
+            technology, and, more importantly, that reality is negotiation, and
+            that it is never the same for everybody.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Frarain.jpeg?v=1606229868566"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fwebshot.jpeg?v=1606229858443"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fraraout.jpeg?v=1606229861532"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-22%20at%2011.05.39%20AM.png?v=1606229862631"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Favis.gif?v=1606229863612"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-22%20at%2011.05.27%20AM.png?v=1606229867986"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Light on the Net</em></div>
+          <div class="year">1996</div>
+          <div class="artist">Masaki Fujihata</div>
+          <div class="description">
+            Visitors to a web site were able to turn on or off any one of a grid
+            of lights installed in the lobby of Gifu Softopia Center west of
+            Tokyo. Authenticity / efficacy of gesture is called into question.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Suicide Box</em></div>
+          <div class="year">1997</div>
+          <div class="artist">Bureau of Inverse Technology</div>
+          <div class="description">
+            vertical-motion triggered camera unit installed in range of the
+            golden gate bridge.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fsuicidebox.jpg?v=1606233230581"
+            />
+            <figcaption></figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fsuicidebox_thumb.jpg?v=1606233230581"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Brandon</em></div>
+          <div class="year">1998</div>
+          <div class="artist">Shu Lea Cheang</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Duration Performance</em></div>
+          <div class="year">1998</div>
+          <div class="artist">Faith Wilding</div>
+          <div class="description">
+            A prescient address of remote labor. The Art of Feminized
+            Maintenance Work, l998, Ars Electronica Center, Linz, Austria.
+            Lecture/performance on the political conditions of telework in the
+            global restructuring of work due to Information Technology.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>I Only Have My Name</em></div>
+          <div class="year">1999</div>
+          <div class="artist">Annie Abrahams</div>
+          <div class="description">
+            On Abrahams’ website (bram.org): “Being Human - low tech mood
+            mutators / not immersive” In this experiment Abrahams tried to
+            answer a number of questions, such as 'What is palpable of the
+            personality behind the internet identity?', testing recognition and
+            sincerity, what is real and what is not, in environments like IRC
+            (Internet Relay Chat) channels. Using fifteen-minute
+            question-and-answer sessions, she tried to establish if people could
+            recognize her, out of four users called Annie. The results suggest
+            that normal aspects of subjectivity, such as personality and
+            opinions, become neutralized in many online venues.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fabrahams%20-%20meeting%20placebinnen.gif?v=1606229865625"
+            />
+            <figcaption>
+              Green, Rachel "Internet Art", Thames &Hudson, 2004, pg 92-93.
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Empire 24/7</em></div>
+          <div class="year">1999-2004</div>
+          <div class="artist">Wolfgang Staehle</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FleadImage_large.png?v=1606229868185"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Ouija 2000</em></div>
+          <div class="year">2000</div>
+          <div class="artist">Ken Goldberg</div>
+          <div class="description">
+            A game board with its pointer mounted on a robotic arm and a webcam
+            view of the board. In contrast to most teleoperation systems where a
+            single user controls a single robot, with "Ouija 2000" participants
+            logging on to the Web site are given instructions for using their
+            computer mouse to interact with up to twenty other live players to
+            collaboratively control a single industrial robot arm--and the board
+            planchette. The game-program calculates the collective movement of
+            online participants' mice to determine the correct answer to point
+            to.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>channelUntitled</em></div>
+          <div class="year">2000</div>
+          <div class="artist">Diane Bertolo</div>
+          <div class="description">
+            Drawing parallels between network mediation and cultural
+            associations of early telephony and radio with spiritual / ghostly
+            presence.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>BANGBANG</em></div>
+          <div class="year">2000-2001</div>
+          <div class="artist">Bureau of Inverse Technology</div>
+          <div class="description">
+            Portals are opened and closed by (sound, image, chemical, material
+            etc) events.
+          </div>
+          <div class="link">
+            <a
+              href="http://www.bureauit.org/decade/projects.html"
+              target="_blank"
+            ></a>
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Fade to Black</em></div>
+          <div class="year">2001</div>
+          <div class="artist">Bureau of Inverse Technology</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fftb_thumb.jpg?v=1606233230580"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Untitled</em></div>
+          <div class="year">2001</div>
+          <div class="artist">Wolfgang Staehle</div>
+          <div class="description"></div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F00-Wolfgang%20Staehle%202001_m091101x.jpg?v=1606229861324"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="container">
+        <div class="container-inner-txt">
+          <div class="title"><em>Canadian Rain</em></div>
+          <div class="year">2002</div>
+          <div class="artist">Trisha Donnelly</div>
+          <div class="description">
+            In <em>Canadian Rain</em> the artist, clad in a trench coat, looks
+            straight into the camera while performing a series of precise
+            gestures designed to bring about rain in Canada.
+          </div>
+        </div>
+        <div class="container-inner-media">
+          <figure>
+            <img
+              src="https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F2-trisna.jpg?v=1606229866901"
+            />
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

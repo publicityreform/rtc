@@ -1,2 +1,1 @@
-# rtc
-a non-custodial archive of artworks about real time communication 
+Tracing some technological, cultural, and conceptual histories of the push to be virtually present and sychronized, alongside some experimental / performative hacks to explore the effects of these histories. 

@@ -4,7 +4,7 @@
     "year": "1966",
     "artist": "Max Neuhaus",
     "title": "Public Supply I",
-    "description": "For <em>Public Supply I</em> Max Neuhaus confined his role as musician to that of a “catalyst for sound-producing activities,” using the largest existing network, the telephone network, which had about 500 million subscribers at the time. Using technology he had constructed himself, he was able to mix calls coming in to ten telephones in the studios of the WBAI radio station in New York in different ways, and then broadcast this melange of listeners' sounds and noises. Once the listeners who called in had switched their radios on, he played with the feedback this produced and bundled sounds from introverted and extroverted callers together.nn“I realized I could open a large door into the radio studio with the telephone; if I installed telephone lines in the studio, anybody could sonically walk in from any telephone. At that time there were no live call-in shows. […] Although I was not able to articulate it in 1966, now, after having worked with this idea for a long time and talked about it and thought about it, it seems that what these works are really about is proposing to reinstate a kind of music which we have forgotten about and which is perhaps the original impulse for music in man: not making a musical product to be listened to, but forming a dialogue, a dialogue without language, a sound dialogue.”",
+    "description": "For <em>Public Supply I</em> Max Neuhaus confined his role as musician to that of a “catalyst for sound-producing activities,” using the largest existing network, the telephone network, which had about 500 million subscribers at the time. Using technology he had constructed himself, he was able to mix calls coming in to ten telephones in the studios of the WBAI radio station in New York in different ways, and then broadcast this melange of listeners' sounds and noises. Once the listeners who called in had switched their radios on, he played with the feedback this produced and bundled sounds from introverted and extroverted callers together. “I realized I could open a large door into the radio studio with the telephone; if I installed telephone lines in the studio, anybody could sonically walk in from any telephone. At that time there were no live call-in shows. […] Although I was not able to articulate it in 1966, now, after having worked with this idea for a long time and talked about it and thought about it, it seems that what these works are really about is proposing to reinstate a kind of music which we have forgotten about and which is perhaps the original impulse for music in man: not making a musical product to be listened to, but forming a dialogue, a dialogue without language, a sound dialogue.”",
     "attr": "Source: Max Neuhaus, “Rundfunkarbeiten und Audium,” in: Transit (publ.), Zeitgleich, Vienna 1994, pp. 21–23)",
     "links": "",
     "images": "",
@@ -190,12 +190,31 @@
     "year": "1977",
     "artist": "Liza Bear, Keith Sonnier, Willoughby Sharp",
     "title": "Two-Way-Demo: Send/Receive",
-    "description": "On September 10 and 11, 1977, the first two-way live broadcast between New York and San Francisco take place. Put into position in 1976, the NASA Satellite CTS is used for the occasion. The New York-based station, MCTV, receives a cable signal by satellite. Throughout the two-and-a-half hour-long broadcast, the two-way telecommunication is the central theme: texts are read, video material recorded and discussed. The broadcast reaches almost 25,000 spectators. (Source: Ann-Kathrin Schlote, Pioniere der Telekommunikationskunst, unpublished Master of Arts dissertation, University of Heidelberg, 1998, p. 77.)",
+    "description": "A two-way satellite link between New York and San Francisco. Using a CTS satellite co-owned by NASA and the Canadian government, artists on either side of the country were able to collaborate in real time, with the resulting program broadcast to viewers on Manhattan Cable’s public access channel (MCTV). The project unfolded in two phases, with the first considering the implications of satellite technology and the second a demonstration of its collaborative and artistic possibilities. The artist-participants—Margaret Fisher, Terry Fox, Brad Gibbs, Sharon Grace, Carl Loeffler, Richard Lowenberg, and Alan Scarritt in San Francisco, and Liza Bear, Willoughby Sharp, Keith Sonnier, Richard Landry, Nancy Lewis, Richard Peck, Betty Sussler, Paul Shavelson, and Duff Schweninger in New York—probed the project’s unique conditions of production: Scarritt, for instance, created a feedback loop by pointing a video camera at the television set at the ground station in San Francisco and transmitted the video via the satellite to New York, while dancers Lewis and Fisher responded to each other’s movements from opposite sides of the country. Describing the questions informing Send/Receive, Sonnier and Bear wrote, “What are the implications of simultaneity? Of instant exposure and instant response?”",
     "attr": "",
-    "links": "",
-    "images": "",
-    "videos": "",
-    "embeds": "",
+    "links": [
+      "https://www.vdb.org/titles/sendreceive-i-and-sendreceive-ii",
+      "https://rhizome.org/editorial/2012/nov/29/sendreceive-liza-bear-and-willoughby-sharp-after-a/"
+    ],
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FReceive_-Liza-Bear-and-Willoughby-Sharp-After-Avalanche.png?v=1624258997942",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FWilloughbySharp-2WayDemo2.png?v=1624258996833",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FSendReceive_01Web.jpg?v=1624258996725",
+        "caption": ""
+      }
+    ],
+    "videos": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FSend_Receive_%20Liza%20Bear%20and%20Keith%20Sonnier%20(720p%20with%2029fps).mp4?v=1624259021005"
+      }
+    ],
     "embeds": "",
     "audios": ""
   },
@@ -308,17 +327,33 @@
     "year": "1983",
     "artist": "Roy Ascott",
     "title": "La Plissure du Texte",
-    "description": "",
+    "description": "“In early 1983, I was invited to propose a work for the 1983 exhibition <i>Electra: Electricity and Electronics in the Art of the Twentieth Century,</i> organized by Frank Popper for the Musée d’Art Moderne de la Ville de Paris. My proposal, La plissure du texte, was a collective global fairy tale, with characters interacting through the ARTEX network, a pre-Web internet used by artists for the creation of a worldwide distributed narrative.  I identified a number of people I’d been working with through the computer, mostly in North America and in Europe, particularly in Holland. I got these people together, as it were, online, and then distributed the characters in a fairy tale, such that eleven locations in the network would represent one character, by whatever means. So in one location, they would develop a story from the point of view of the wicked witch, and then someone somewhere else would be the magician or some other fairy-tale character. And the story emerged in this way, with each group contributing to the narrative and posting updates electronically. So the story would develop over a period of five or six weeks. The work was publicly available in the Musee d’Art Moderne: You’d go to the exhibition and log on and see the story; there was also a printout of it. People would come by and see the story on the screen and sit down and talk with you and suggest, “Why don’t you have so-and-so do this and this?” And you’d say, “Oh, yes. It’s a good idea. Type that in.” [Laughter.] So it became quite socially interactive as well. I’m very proud of it.” ",
     "attr": "",
-    "links": ["http://telematic.walkerart.org/timeline/timeline_ascott.html"],
+    "links": ["http://telematic.walkerart.org/timeline/timeline_ascott.html", "https://www.artforum.com/features/roy-ascott-hans-ulrich-obrist-interview-1234725650/"],
     "images": [
       {
         "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FScreen%20Shot%202020-11-24%20at%201.05.08%20PM.png?v=1606241211749",
         "caption": ""
       },
       {
+        "link":"https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Obrist_Ascott-6%20copy.jpg?v=1738957584386",
+        "caption":"Roy Ascott, La plissure du texte (The Pleating of the Text), 1983, print of collaborative text."
+      },
+      {
         "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fshanken_fig_4.jpg?v=1606233230581",
         "caption": ""
+      },
+      {
+        "link":"https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Obrist_Ascott-9%20copy.jpg?v=1738957029371",
+        "caption":""
+      },
+      {
+        "link":"https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Obrist_Ascott-8%20copy.jpg?v=1738957514247",
+        "caption":""
+      },
+      {
+      "link": "https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Obrist_Ascott-9%20copy1.jpg?v=1738956889974",
+      "caption":"Contributors to Roy Ascott’s 1983 La plissure du texte (The Pleating of the Text), Paris, San Francisco, and Alma, Quebec, December 11–23, 1983."
       }
     ],
     "videos": "",
@@ -392,11 +427,67 @@
     "audios": ""
   },
   {
+    "id": "PhynumcLeb",
+    "year": "1989",
+    "artist": "Border Art Workshop/Taller de Arte Fronterizo (BAW/TAF) Guillermo Gómez-Peña, Emily Hicks, Bertha Jottar, Richard Lou, Victor Ochoa, Robert Sanchez, Michael Schnorr and Rocío Weiss",
+    "title": "Border Axes",
+    "description": "Communications network with fax machines, Xerox machines, an 800 phone line, and video equipment, created in hopes of dissolving the borders between the US and Mexico with alternative ways of communicating and collecting news.",
+    "attr": "",
+    "links": [
+      "https://vault.cca.edu/items/82039dbc-64ee-43bb-85db-43f56b4dec90/1/"
+    ],
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_006.jpg?v=1624254961169",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_076.jpg?v=1624254960832",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_258.jpg?v=1624254960258",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_011.jpg?v=1624254960137",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_114.jpg?v=1624254959757",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_007.jpg?v=1624254959710",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_077.jpg?v=1624254959274",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_257.jpg?v=1624254958929",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_005.jpg?v=1624254958714",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fr89b_032.jpg?v=1624254958243",
+        "caption": ""
+      }
+    ],
+    "videos": "",
+    "embeds": "",
+    "audios": ""
+  },
+  {
     "id": "kZMCzrCPlW",
     "year": "1991-1993",
     "artist": "Barbara T. Smith",
     "title": "21st Century Odyssey",
-    "description": "On September 26, 1991, a group of eight scientists sealed themselves inside a research facility outside of Tucson, Arizona to begin a two-year experiment. Dubbed “Biosphere 2” — Biosphere 1 being the Earth itself — the closed structure contained several different ecosystems, including a desert, rainforest, and coral reef, in which the researchers could investigate the possibility of maintaining human life in outer space. One of those locked inside was Dr. Roy Walford, whose partner at the time was Los Angeles-based artist Barbara T. Smith. While Walford was physically isolated from the world, Smith decided to explore it, embarking on a two-year creative journey that would take her around the globe, from India and Nepal to Germany and Norway, Hawaii and Seattle. She imagined herself a modern-day female version of Homer’s legendary traveller Odysseus, and considered every element of her trip as part of a durational performance, “The 21st Century Odyssey.” Along her route, she would use a videophone and nascent internet technology to connect with Walford in the facility, as well as with collaborators Kit Galloway and Sherrie Rabinowitz of the Electronic Café International, an early cyber cafe located at 18th Street Arts Center in Santa Monica, which archived these communications. https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F21stcenturyodyssey-520x379.png?v=1606229866734",
+    "description": "On September 26, 1991, a group of eight scientists sealed themselves inside a research facility outside of Tucson, Arizona to begin a two-year experiment. Dubbed “Biosphere 2” — Biosphere 1 being the Earth itself — the closed structure contained several different ecosystems, including a desert, rainforest, and coral reef, in which the researchers could investigate the possibility of maintaining human life in outer space. One of those locked inside was Dr. Roy Walford, whose partner at the time was Los Angeles-based artist Barbara T. Smith. While Walford was physically isolated from the world, Smith decided to explore it, embarking on a two-year creative journey that would take her around the globe, from India and Nepal to Germany and Norway, Hawaii and Seattle. She imagined herself a modern-day female version of Homer’s legendary traveller Odysseus, and considered every element of her trip as part of a durational performance, “The 21st Century Odyssey.” Along her route, she would use a videophone and nascent internet technology to connect with Walford in the facility, as well as with collaborators Kit Galloway and Sherrie Rabinowitz of the Electronic Café International, an early cyber cafe located at 18th Street Arts Center in Santa Monica, which archived these communications.",
     "attr": "",
     "links": [
       "https://www.librarystack.org/barbara-t-smith-21st-century-odyssey/"
@@ -427,11 +518,70 @@
     "title": "The Thing",
     "description": "Founded in New York City in 1991, <em>The Thing</em> originated as a Bulletin Board System (BBS)—an early type of online forum—focusing on contemporary art and cultural theory. As a BBS, and later an email provider and ISP, The Thing fostered a community of practitioners who engaged in experiments with political organizing, writing, performance, and the sale and distribution of artwork online. Including features such as messaging, an anonymized chatroom, and the ability to upload and download files, <em>The Thing</em> BBS initially reached a primarily New York-based community, within reach of local calling rates, but soon grew to include additional nodes in Europe. The project can be considered a platform for contributions by artists and non-artists alike as well as a kind of collectively created social sculpture.",
     "attr": "",
-    "links": ["https://anthology.rhizome.org/the-thing"],
+    "links": ["https://thing.net/","https://anthology.rhizome.org/the-thing"],
     "images": [
       {
         "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F1.05e%20-%20The%20Thing_23ttcrew93.jpg?v=1606233237111",
         "caption": "Wolfgang Staehle and other participants in The Thing circa 1993."
+      }
+    ],
+    "videos": "",
+    "embeds": "",
+    "audios": ""
+  },
+  {
+    "id": "FeoUCDaaVE",
+    "year": "1992-ongoing",
+    "artist": "Maria Beatriz de Medeiros (Bia Medeiros), Carla Rocha, Maria Luiza Fragoso, Andre Silva, Cila MacDowell, and Robiara Becker",
+    "title": "Corpos Informáticos",
+    "description": "“Our investigation lies on the possibility of survival of a digital body, of a numerical flesh body; it lies on the possibility of survival of a sensual body turned into image. [...] Performances in telepresence are deterritorialized bodies reorganized (re-orphans) in monitors that are dispersed in the world. [...] This communication, mainly in telepresence, though slow and obscure, is the possibility of meeting the other who is not physically present; it is the possibility of meeting and communicating—not necessarily rejecting reality.”",
+    "attr": "Bia Medeiros",
+    "links": [
+      "https://anthology.rhizome.org/telepresence",
+      "http://corpos.org/",
+      "http://people.brunel.ac.uk/bst/3no2/Papers/bia%20medeiros.htm",
+      "http://people.brunel.ac.uk/bst/vol0302/mariabeatriz.html"
+    ],
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FCaptura%20de%20Tela%202017-07-24%20a%CC%80s%2019.32.48.png?v=1624256307057",
+        "caption": "Images from early Corpos Informáticos telepresence performances, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2F1%20Captura%20de%20Tela%202017-07-24%20a%CC%80s%2019.48.39.png?v=1624256306604",
+        "caption": "Image from telepresence performance by Corpos Informáticos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2FCaptura%20de%20Tela%202017-07-24%20a%CC%80s%2019.33.59.png?v=1624256305218",
+        "caption": "Images from early Corpos Informáticos telepresence performances, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Ftelamesa2.jpg?v=1624256303558",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Ftela25.jpg?v=1624256303350",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fmesa.jpg?v=1624256303238",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fchat.jpg?v=1624256303213",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fcompcarla.jpg?v=1624256303031",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fathena.jpg?v=1624256302889",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Ftelao.jpg?v=1624256302875",
+        "caption": "Image from Hungry@Corpos, courtesy of Bia Medeiros."
       }
     ],
     "videos": "",
@@ -558,24 +708,6 @@
     "audios": ""
   },
   {
-    "id": "KEMdYBHSUl",
-    "year": "1995",
-    "artist": "Lynn Hershman Leeson",
-    "title": "CybeRoberta",
-    "description": "",
-    "attr": "",
-    "links": ["https://www.lynnhershman.com/cyberoberta/"],
-    "images": [
-      {
-        "link": "",
-        "caption": ""
-      }
-    ],
-    "videos": "",
-    "embeds": "",
-    "audios": ""
-  },
-  {
     "id": "VoYufbqmpw",
     "year": "1995-1998",
     "artist": "Lynn Hershman Leeson",
@@ -625,7 +757,7 @@
     "year": "1996",
     "artist": "Eduardo Kac",
     "title": "Rara Avis",
-    "description": "Local and remote participants experienced a large aviary with 30 birds from the point of view of a telerobotic macaw. Inside the aviary the viewer noticed a strong contrast between the thirty flying birds (zebra finches, which were very small and mostly gray) and the large tropical macaw, which was perched and immobile. This macaw, like any other, has a long saber-shaped tail, a curved powerful bill, and brilliant plumage. Upon observing the behavior of the birds, the viewer noticed that the macaw -- the most commanding bird in the aviary -- appeared motionless. Only its head moved. This tropical bird was in fact a telerobot. Since the macaw's eyes were on the front of the head, as is the case of an owl, the telerobot was called a Macowl . The head of the telerobotic macowl is made of a pair of color video cameras and a computer-controlled servo. The servo-motor which moves the telerobot's head is controlled by a PC receiving directional information from the virtual reality headset. The viewer was invited to put on the headset. While wearing the headset, the viewer was transported into the aviary. The viewer now perceived the aviary from the point of view of the Macowl and was able to observe himself or herself in this situation from the point of view of the macaw. The tropical bird's eyes are two CCD cameras. When the viewer, now a participant, moved his or her head to left and right, the head of the telerobotic Macowl moved accordingly, enabling the participant to see the whole space of the aviary from the Macowl's point of view. The real space was immediately transformed into a virtual space. The installation was permanently connected to the Internet. Through the Net, remote participants observed the gallery space from the point of view of the telerobotic Macowl. Through the Internet remote participants also used their microphones to trigger the vocal apparatus of the telerobotic macaw heard in the gallery. The body of telerobotic Macowl was shared in real time by local participants and Internet participants worldwide. Sounds in the space, usually a combination of human and bird voices, traveled back to remote participants on the Internet. By enabling the local participant to be both vicariously inside and physically outside the cage, this installation created a metaphor that revealed how new communications technology enables the effacement of boundaries at the same time that it reaffirms them. The installation also addressed issues of identity and alterity, projecting the viewer inside the body of a rare bird who not only was the only one of its kind in the aviary but was also distinctly different from the other birds (in scale, color, and behavior). The piece can be seen as a critique of the problematic notion of \"exoticism\", a concept that reveals more about relativity of contexts and the limited awareness of the observer than about the cultural status of the object of observation. This image of \"the different\", \"the other\", embodied by the telerobotic Macowl, was dramatized by the fact that the participant temporarily adopted the point of view of the rare bird. This piece created a self-organizing system of mutual dependence, in which local participants, animals, a telerobot, and remote participants interacted without direct guidance, control, or external intervention. As the piece combined physical and non-physical entities, it merged immediate perceptual phenomena with a heightened awareness of what affects us but is visually absent, physically remote. Local and on-line participants experienced the space in complex, different ways. The local ecology of the aviary was affected by Internet ecology and vice-versa. The topology of Rara Avis was carefully designed to expose the social gap implied in technological development. As the video feed, from the point of view of the Macowl (as seen by a local participant), went out from the Atlanta space into the Internet, one eye was digitized in grayscale (with the freeware Cu-SeeMe) while the other was digitized in color (with the commercial product Enhanced Cu-SeeMe). While anyone with Internet access could download the freeware and participate in the interactive component of the work, full participation in color was only accessible to those who had already purchased the commercial version of the freeware. The gray images were subsequently and automatically uploaded to the Rara Avis Web site, where they became even more accessible--since more people today have access to (and feel comfortable with) the Web than to videoconferencing on the Internet. The color feed was re-routed to the MBone, the multicasting zone of the Net, which only a much smaller group of individuals can access at present. Those lacking access to more powerful media saw the space in Atlanta in grayscale, at speeds that depended on the software, hardware, and connectivity available to them. Those with access to newer technology were able to experience the space differently, in color and at frame rates that reflected the processing power and bandwidth available to them. In its geographic dispersal, Rara Avis was intentionally never exactly the same to remote or local participants. The merger of local ecology with the cybersphere was perceived in varying ways by viewers and participants worldwide, depending on the kind of access they had. This clearly suggested that the mediascape--the highly technological environment in which we live--modulates and defines our perception of reality. Which makes us realize the inequalities promoted by technology, and, more importantly, that reality is negotiation, and that it is never the same for everybody.",
+    "description": "Local and remote participants experienced a large aviary with 30 birds from the point of view of a telerobotic “Macowl” (Owl+Macaw). Inside the aviary, viewers would notice a strong contrast between the thirty flying birds (zebra finches, which were very small and mostly gray) and the large tropical macaw, which was perched and immobile. Participants were able to observe the gallery space from the point of view of cameras in the Macowl's eyes. This image of the other, embodied by the Macowl, was dramatized by the fact that viewers temporarily adopted the point of view of the rare bird. One eye was digitized in grayscale (with the freeware Cu-SeeMe) while the other was digitized in color (with the commercial product Enhanced Cu-SeeMe). Those lacking access to more powerful media saw the space in grayscale, those with access to premium technology were able to experience the space in color.",
     "attr": "",
     "links": ["http://www.ekac.org/interactive.html"],
     "images": [
@@ -677,11 +809,28 @@
     "audios": ""
   },
   {
+    "id": "oiuhgeje8",
+    "year":"1997",
+    "artist": "Floating Point Unit",
+    "title": "Future's Memory",
+    "description":"[collaboration between Floating Point Unit, Ricardo Dominguez, and Diane Ludin]<br><br>FUTURE'S MEMORY <br>in 13 scenes<br><br>Starting March 30, 1997 every Sunday at 11:30 pm on Channel 16 (Manhattan Cable), Floating Point Unit will broadcast a cross-media internet/cable TV show.<br><br>Over the course of 13 weeks, three main characters-Mercy, La Guerillere, and Singularity will be introduced to our internet/TV audience through Cuseeme.<br><br>The story will develop as audience members become characters and participate in our play as the show is taped live every week at THING.NET (NYC).<br><br> If you would like to participate, email us at floating@thing.net.<br><br>or tune in to one of the following Reflector sites: <br><br>Brazil 200.246.0.248<br>Pseudo 207.49.64.145<br>Tokyo 130.69.250.5<br><br>on saturday nites 9-11pm.<br><br>For all of you who have contacted us already to be part of the show, we will start writing participants into the script next week (4/19).",
+    "attr":"",
+    "links":["https://rhizome.org/community/42218/"],
+    "images":[],
+    "videos":[
+      {
+        "link":"https://cdn.glitch.me/95e2d5bd-7f2f-4e48-9362-a944941983a6/%22CUseemeTV%22%20Floating%20Point%20Unit.mp4?v=1677538073642"
+      }
+    ],
+    "embeds":"",
+    "audios":""
+  },
+  {
     "id": "eUIdHcwGic",
     "year": "1997",
     "artist": "Bureau of Inverse Technology",
     "title": "Suicide Box",
-    "description": "vertical-motion triggered camera unit installed in range of the golden gate bridge. https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fsuicidebox_thumb.jpg?v=1606233230581",
+    "description": "vertical-motion triggered camera unit installed in range of the golden gate bridge.",
     "attr": "",
     "links": ["http://bureauit.org/sbox/"],
     "images": [
@@ -699,15 +848,38 @@
     "embeds": "",
     "audios": ""
   },
+  {"id":"c9ejwi2oi5","year":"1997-2000","artist":"Lutz Bacher","title":"Closed Circuit","description":"After Pat Hearn, the famed downtown art dealer who represented her, was diagnosed with liver cancer on January 22, 1997, Bacher installed a camera above Hearn’s desk, filming continuously for 10 months. We see Hearn sit, make phone calls, meet with artists; Hearn is featured in the frame less and less as her illness worsens. Bacher edited 1,200 hours of footage into 40 minutes of video stills upon the dealer’s death in 2000.","attr": "",
+    "links": ["https://faculty.ucr.edu/~ewkotz/texts/Kotz-2002-Bacher-ZKM.pdf","https://www.metmuseum.org/art/collection/search/284983","https://www.moma.org/collection/works/179688","https://www.artic.edu/artworks/218566/closed-circuit"],"images": [
+      {
+        "link": "https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Screen%20Shot%202022-08-22%20at%2012.36.07%20PM.png?v=1661186720239",
+        "caption": ""
+      },
+       {
+        "link": "https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/Screen%20Shot%202022-08-22%20at%2012.35.52%20PM.png?v=1661186728957",
+        "caption": ""
+      },
+       {
+        "link": "https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/default.jpg?v=1661186702241",
+        "caption": ""
+      }
+    ],
+    "videos": [{"link":"https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/lutz%20bacher%20-%20closed%20circuit%20-%201997-2000.mp4?v=1661186875366"}],
+    "embeds": "",
+    "audios": ""},
   {
     "id": "vOOVVqAghB",
-    "year": "1998",
+    "year": "1998-1999",
     "artist": "Shu Lea Cheang",
     "title": "Brandon",
-    "description": "",
+    "description": "...hyperlinked images of a disembodied human form, once-live chat rooms on the subject of crime and punishment, and graphic moving images [...] illuminate the wide-reaching effect of Brandon’s life and death. Exploiting the highly mutable “skin” of the Internet, Cheang reveals how this emerging virtual environment enables individuals to inhabit and play with different gender roles and characters. [...] a social and academic space through which a broad audience communicated both casually and as participants in a number of organized events. Staged in physical spaces but broadcast and represented online...",
     "attr": "",
     "links": ["https://www.guggenheim.org/artwork/15337"],
-    "images": "",
+    "images": [
+      {
+        "link": "https://cdn.glitch.global/95e2d5bd-7f2f-4e48-9362-a944941983a6/image.jpg?v=1661185462770",
+        "caption": ""
+      }
+    ],
     "videos": "",
     "embeds": "",
     "audios": ""
@@ -719,8 +891,13 @@
     "title": "Duration Performance",
     "description": "A prescient address of remote labor. The Art of Feminized Maintenance Work, l998, Ars Electronica Center, Linz, Austria. Lecture/performance on the political conditions of telework in the global restructuring of work due to Information Technology.",
     "attr": "",
-    "links": "",
-    "images": "",
+    "links": ["http://faithwilding.refugia.net/durationperformance.pdf"],
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Funnamed.jpg?v=1624261369299",
+        "caption": ""
+      }
+    ],
     "videos": "",
     "embeds": "",
     "audios": ""
@@ -783,7 +960,16 @@
     "description": "Drawing parallels between network mediation and cultural associations of early telephony and radio with spiritual / ghostly presence.",
     "attr": "",
     "links": ["http://dianebertolo.com/channeluntitled/"],
-    "images": "",
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fchannel_untitled_ff_600_11.jpg?v=1624262260553",
+        "caption": ""
+      },
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fchannel_untitled_ff_600_9.jpg?v=1624262260587",
+        "caption": ""
+      }
+    ],
     "videos": "",
     "embeds": "",
     "audios": ""
@@ -793,10 +979,18 @@
     "year": "2000-2001",
     "artist": "Bureau of Inverse Technology",
     "title": "BANGBANG",
-    "description": "Portals are opened and closed by (sound, image, chemical, material etc) events. http://www.bureauit.org/decade/projects.html",
+    "description": "Portals are opened and closed by (sound, image, chemical, material etc) events.",
     "attr": "",
-    "links": ["http://telematic.walkerart.org/telereal/bit_index.html"],
-    "images": "",
+    "links": [
+      "http://telematic.walkerart.org/telereal/bit_index.html",
+      "http://www.bureauit.org/decade/projects.html"
+    ],
+    "images": [
+      {
+        "link": "https://cdn.glitch.com/95e2d5bd-7f2f-4e48-9362-a944941983a6%2Fbangbang_04_sm.jpg?v=1624261806550",
+        "caption": "BANGBANG, San Francisco Art Institute"
+      }
+    ],
     "videos": "",
     "embeds": "",
     "audios": ""
@@ -806,7 +1000,7 @@
     "year": "2001",
     "artist": "Bureau of Inverse Technology",
     "title": "Fade to Black",
-    "description": "",
+    "description": "A network of webcams oriented skyward. Image on the webcam fades to black as pollutant film accumulates on the lens. Provides visual and empirical information on air quality; viewable in live stream or archived [concatanated] format. Test deployments: Houston TX, Hollywood CA, Bronx & Broadway NYC.",
     "attr": "",
     "links": ["http://bureauit.org/ftb/"],
     "images": [
